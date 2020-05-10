@@ -67,3 +67,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # quarantine-app
+this react app is a fully deployed website that educates us during the COVID-19 pandemic.
+API used: https://covid19.mathdro.id/api
+Framework used Material-ui
+technology used were reactHooks,Material-ui,Chart.js
